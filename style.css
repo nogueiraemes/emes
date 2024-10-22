@@ -8,14 +8,14 @@
 
 .section1 {
     background-image: linear-gradient(violet, red);
-    text-align: center;
-
+    text-align: center; 
+padding: 30px;
 }
 
 .section2 {
     background-image: linear-gradient(red, purple);
     text-align: center;     
-    
+    padding: 30px;
 }
 
 .cabecalho-imagem{
